@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.0.1 (Python 3.10.2 on win32)" generated="2024-06-28T01:11:10.866637" rpa="false" schemaversion="5">
+<suite id="s1" name="Test" source="C:\Developer\Robot\Web_Testing_Robot\test\feature\test.robot">
+<test id="s1-t1" name="CT01 - Validar acesso ao site ao site organo" line="7">
+<kw name="Dado que realizo acesso ao site organo">
+<msg time="2024-06-28T01:11:11.432634" level="FAIL">No keyword with name 'Dado que realizo acesso ao site organo' found.</msg>
+<status status="FAIL" start="2024-06-28T01:11:11.432634" elapsed="0.000000">No keyword with name 'Dado que realizo acesso ao site organo' found.</status>
+</kw>
+<kw name="Então a pagina é carregada com sucesso">
+<status status="NOT RUN" start="2024-06-28T01:11:11.488636" elapsed="0.000000"/>
+</kw>
+<doc>Acessa o site organo</doc>
+<tag>CT01</tag>
+<status status="FAIL" start="2024-06-28T01:11:11.428633" elapsed="0.062003">No keyword with name 'Dado que realizo acesso ao site organo' found.</status>
+</test>
+<doc>Está suite contem testes no site organo</doc>
+<status status="FAIL" start="2024-06-28T01:11:10.870637" elapsed="0.621995"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="0" fail="1" skip="0">CT01</stat>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Test">Test</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

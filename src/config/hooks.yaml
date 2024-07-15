@@ -1,0 +1,6 @@
+CONFIG:
+  BROWSER:
+    NOME: chrome
+    URL: http://localhost:3000/
+    OPTIONS: options=add_experimental_option('excludeSwitches', ['enable-logging'])
+  TIMEOUT: 15
