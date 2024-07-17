@@ -1,0 +1,6 @@
+#################################
+#pip install -r requirements.txt#
+#################################
+robotframework
+robotframework-seleniumlibrary
+pyyaml
